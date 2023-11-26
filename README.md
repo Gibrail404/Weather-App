@@ -19,6 +19,11 @@ To use the Weather Web App locally, follow these steps:
    ```bash
    git clone https://github.com/Gibrail404/Weather-App.git
 
+
+## Demo
+You can view a live demo of the Weather-App click [here](https://gibrail404.github.io/Weather-App/).
+
+
 ## License
 
 This Weather-webapp Project is licensed under the MIT License.
